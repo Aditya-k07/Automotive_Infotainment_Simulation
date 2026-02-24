@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/qt/qml/Automotive_Infotainment_Simulation/">
+    <file alias="Main.qml">E:/qt_tut/Automotive_Infotainment_Simulation/Main.qml</file>
+    <file alias="DashboardView.qml">E:/qt_tut/Automotive_Infotainment_Simulation/DashboardView.qml</file>
+    <file alias="components/cluster/InstrumentCluster.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/InstrumentCluster.qml</file>
+    <file alias="components/cluster/SpeedometerGauge.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/SpeedometerGauge.qml</file>
+    <file alias="components/cluster/RPMGauge.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/RPMGauge.qml</file>
+    <file alias="components/cluster/FuelGauge.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/FuelGauge.qml</file>
+    <file alias="components/cluster/TempGauge.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/TempGauge.qml</file>
+    <file alias="components/cluster/WarningLights.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/cluster/WarningLights.qml</file>
+    <file alias="components/infotainment/InfotainmentPanel.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/infotainment/InfotainmentPanel.qml</file>
+    <file alias="components/infotainment/MediaPlayer.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/infotainment/MediaPlayer.qml</file>
+    <file alias="components/infotainment/NavigationScreen.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/infotainment/NavigationScreen.qml</file>
+    <file alias="components/infotainment/SettingsScreen.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/infotainment/SettingsScreen.qml</file>
+    <file alias="components/infotainment/PhoneScreen.qml">E:/qt_tut/Automotive_Infotainment_Simulation/components/infotainment/PhoneScreen.qml</file>
+  </qresource>
+</RCC>
+

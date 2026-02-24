@@ -1,0 +1,10 @@
+-I
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+D:/Setups/qt/6.10.1/mingw_64/qml
+--resource
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_Automotive_Infotainment_Simulation.qrc
+--resource
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appAutomotive_Infotainment_Simulation_raw_qml_0.qrc
+--module
+Automotive_Infotainment_Simulation

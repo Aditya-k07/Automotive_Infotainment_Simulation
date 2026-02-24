@@ -1,0 +1,56 @@
+﻿-- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+cmake : CMake Error at 
+CMakeLists.txt:8 
+(find_package):
+At line:1 char:1
++ cmake -B build -S . -D
+CMAKE_BUILD_TYPE=Debug 
+2>&1 | ForEach-Object { 
+ ...
++ ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo      
+        : NotSpecified  
+  : (CMake Error at .   
+ ..(find_package)::S    
+tring) [], RemoteEx    
+ception
+    + FullyQualifiedErr 
+   orId : NativeComman  
+  dError
+ 
+  By not providing 
+"FindQt6.cmake" in 
+CMAKE_MODULE_PATH this 
+project has
+  asked CMake to find a 
+package configuration 
+file provided by "Qt6", 
+but
+  CMake did not find 
+one.
+
+  Could not find a 
+package configuration 
+file provided by "Qt6" 
+with any of
+  the following names:
+
+    Qt6Config.cmake
+    qt6-config.cmake
+
+  Add the installation 
+prefix of "Qt6" to 
+CMAKE_PREFIX_PATH or 
+set "Qt6_DIR"
+  to a directory 
+containing one of the 
+above files.  If "Qt6" 
+provides a
+  separate development 
+package or SDK, be sure 
+it has been installed.
+
+
+-- Configuring incomplete, errors occurred!

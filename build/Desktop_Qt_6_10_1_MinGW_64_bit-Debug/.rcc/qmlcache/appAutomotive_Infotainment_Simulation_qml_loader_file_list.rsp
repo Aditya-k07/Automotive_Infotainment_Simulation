@@ -1,0 +1,17 @@
+--resource
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_Automotive_Infotainment_Simulation.qrc
+--resource
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appAutomotive_Infotainment_Simulation_raw_qml_0.qrc
+/qt/qml/Automotive_Infotainment_Simulation/Main.qml
+/qt/qml/Automotive_Infotainment_Simulation/DashboardView.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/InstrumentCluster.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/SpeedometerGauge.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/RPMGauge.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/FuelGauge.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/TempGauge.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/cluster/WarningLights.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/infotainment/InfotainmentPanel.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/infotainment/MediaPlayer.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/infotainment/NavigationScreen.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/infotainment/SettingsScreen.qml
+/qt/qml/Automotive_Infotainment_Simulation/components/infotainment/PhoneScreen.qml

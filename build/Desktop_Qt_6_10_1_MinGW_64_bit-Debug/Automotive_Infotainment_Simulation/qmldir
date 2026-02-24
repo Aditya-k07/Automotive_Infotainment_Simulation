@@ -1,0 +1,18 @@
+module Automotive_Infotainment_Simulation
+typeinfo appAutomotive_Infotainment_Simulation.qmltypes
+prefer :/qt/qml/Automotive_Infotainment_Simulation/
+Main 254.0 Main.qml
+DashboardView 254.0 DashboardView.qml
+InstrumentCluster 254.0 components/cluster/InstrumentCluster.qml
+SpeedometerGauge 254.0 components/cluster/SpeedometerGauge.qml
+RPMGauge 254.0 components/cluster/RPMGauge.qml
+FuelGauge 254.0 components/cluster/FuelGauge.qml
+TempGauge 254.0 components/cluster/TempGauge.qml
+WarningLights 254.0 components/cluster/WarningLights.qml
+InfotainmentPanel 254.0 components/infotainment/InfotainmentPanel.qml
+MediaPlayer 254.0 components/infotainment/MediaPlayer.qml
+NavigationScreen 254.0 components/infotainment/NavigationScreen.qml
+SettingsScreen 254.0 components/infotainment/SettingsScreen.qml
+PhoneScreen 254.0 components/infotainment/PhoneScreen.qml
+depends QtQuick
+

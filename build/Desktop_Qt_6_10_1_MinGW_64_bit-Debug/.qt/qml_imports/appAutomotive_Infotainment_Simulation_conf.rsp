@@ -1,0 +1,14 @@
+-rootPath
+E:/qt_tut/Automotive_Infotainment_Simulation
+-cmake-output
+-output-file
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appAutomotive_Infotainment_Simulation_conf.cmake
+-importPath
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Automotive_Infotainment_Simulation
+-importPath
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-importPath
+D:/Setups/qt/6.10.1/mingw_64/qml
+-qrcFiles
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_Automotive_Infotainment_Simulation.qrc
+E:/qt_tut/Automotive_Infotainment_Simulation/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appAutomotive_Infotainment_Simulation_raw_qml_0.qrc
