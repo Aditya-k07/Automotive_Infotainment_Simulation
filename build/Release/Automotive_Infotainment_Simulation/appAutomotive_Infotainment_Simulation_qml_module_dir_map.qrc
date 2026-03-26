@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Automotive_Infotainment_Simulation">E:/qt_tut/Automotive_Infotainment_Simulation/build/Release/Automotive_Infotainment_Simulation</file>
+
+  </qresource>
+</RCC>

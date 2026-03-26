@@ -1,6 +1,8 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
+#include <QUrl>
+#include <QDebug>
 
 #include "VehicleController.h"
 #include "MediaController.h"
@@ -29,10 +31,23 @@ int main(int argc, char *argv[])
         &engine,
         &QQmlApplicationEngine::objectCreationFailed,
         &app,
-        []() { QCoreApplication::exit(-1); },
+        []() {
+            qCritical() << "QML object creation FAILED!";
+            QCoreApplication::exit(-1);
+        },
         Qt::QueuedConnection);
 
-    engine.loadFromModule("Automotive_Infotainment_Simulation", "Main");
+    const QUrl url(QStringLiteral("qrc:/qt/qml/Automotive_Infotainment_Simulation/Main.qml"));
+    qDebug() << "Loading QML from:" << url;
+
+    engine.load(url);
+
+    if (engine.rootObjects().isEmpty()) {
+        qCritical() << "No root objects! QML load failed.";
+        return -1;
+    }
+
+    qDebug() << "QML loaded successfully. Root objects:" << engine.rootObjects().size();
 
     return app.exec();
 }
