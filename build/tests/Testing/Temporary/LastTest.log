@@ -1,0 +1,63 @@
+Start testing: Apr 15 18:12 India Standard Time
+----------------------------------------------------------
+1/4 Testing: VehicleControllerTest
+1/4 Test: VehicleControllerTest
+Command: "E:/qt_tut/Automotive_Infotainment_Simulation/build/tests/tst_vehiclecontroller.exe"
+Directory: E:/qt_tut/Automotive_Infotainment_Simulation/build/tests
+"VehicleControllerTest" start time: Apr 15 18:12 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =  42.83 sec
+----------------------------------------------------------
+Test Passed.
+"VehicleControllerTest" end time: Apr 15 18:12 India Standard Time
+"VehicleControllerTest" time elapsed: 00:00:42
+----------------------------------------------------------
+
+2/4 Testing: MediaControllerTest
+2/4 Test: MediaControllerTest
+Command: "E:/qt_tut/Automotive_Infotainment_Simulation/build/tests/tst_mediacontroller.exe"
+Directory: E:/qt_tut/Automotive_Infotainment_Simulation/build/tests
+"MediaControllerTest" start time: Apr 15 18:12 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   7.77 sec
+----------------------------------------------------------
+Test Passed.
+"MediaControllerTest" end time: Apr 15 18:13 India Standard Time
+"MediaControllerTest" time elapsed: 00:00:07
+----------------------------------------------------------
+
+3/4 Testing: NavigationControllerTest
+3/4 Test: NavigationControllerTest
+Command: "E:/qt_tut/Automotive_Infotainment_Simulation/build/tests/tst_navigationcontroller.exe"
+Directory: E:/qt_tut/Automotive_Infotainment_Simulation/build/tests
+"NavigationControllerTest" start time: Apr 15 18:13 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =  14.62 sec
+----------------------------------------------------------
+Test Passed.
+"NavigationControllerTest" end time: Apr 15 18:13 India Standard Time
+"NavigationControllerTest" time elapsed: 00:00:14
+----------------------------------------------------------
+
+4/4 Testing: BluetoothControllerTest
+4/4 Test: BluetoothControllerTest
+Command: "E:/qt_tut/Automotive_Infotainment_Simulation/build/tests/tst_bluetoothcontroller.exe"
+Directory: E:/qt_tut/Automotive_Infotainment_Simulation/build/tests
+"BluetoothControllerTest" start time: Apr 15 18:13 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =  76.64 sec
+----------------------------------------------------------
+Test Passed.
+"BluetoothControllerTest" end time: Apr 15 18:14 India Standard Time
+"BluetoothControllerTest" time elapsed: 00:01:16
+----------------------------------------------------------
+
+End testing: Apr 15 18:14 India Standard Time

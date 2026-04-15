@@ -181,7 +181,7 @@ Item {
         // ── Incoming call overlay ───────────────────────────────────
         Rectangle {
             anchors.fill: parent
-            color: "rgba(0,0,0,0.85)"
+            color: Qt.rgba(0, 0, 0, 0.85)
             visible: btCtrl.hasIncoming || btCtrl.isInCall
             radius: 0
 
